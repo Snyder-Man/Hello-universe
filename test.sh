@@ -2,7 +2,7 @@
 echo hi
 # list files and directories
 ls -lh
-# sleep 2 seconds
-sleep 2
+# sleep 1 seconds
+sleep 1
 # done :)
 echo done.
