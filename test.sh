@@ -1,5 +1,5 @@
 # print hi
-echo hi
+echo hi...
 # list files and directories
 ls -lh
 # sleep 1 seconds
